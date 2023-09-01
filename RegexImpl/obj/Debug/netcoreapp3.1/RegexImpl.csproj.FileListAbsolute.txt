@@ -1,0 +1,14 @@
+C:\Users\Teju Reddy\source\repos\RegexImpl\RegexImpl\bin\Debug\netcoreapp3.1\RegexImpl.exe
+C:\Users\Teju Reddy\source\repos\RegexImpl\RegexImpl\bin\Debug\netcoreapp3.1\RegexImpl.dll
+C:\Users\Teju Reddy\source\repos\RegexImpl\RegexImpl\obj\Debug\netcoreapp3.1\RegexImpl.csproj.AssemblyReference.cache
+C:\Users\Teju Reddy\source\repos\RegexImpl\RegexImpl\obj\Debug\netcoreapp3.1\RegexImpl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Teju Reddy\source\repos\RegexImpl\RegexImpl\obj\Debug\netcoreapp3.1\RegexImpl.AssemblyInfoInputs.cache
+C:\Users\Teju Reddy\source\repos\RegexImpl\RegexImpl\obj\Debug\netcoreapp3.1\RegexImpl.AssemblyInfo.cs
+C:\Users\Teju Reddy\source\repos\RegexImpl\RegexImpl\obj\Debug\netcoreapp3.1\RegexImpl.csproj.CoreCompileInputs.cache
+C:\Users\Teju Reddy\source\repos\RegexImpl\RegexImpl\obj\Debug\netcoreapp3.1\RegexImpl.dll
+C:\Users\Teju Reddy\source\repos\RegexImpl\RegexImpl\obj\Debug\netcoreapp3.1\RegexImpl.pdb
+C:\Users\Teju Reddy\source\repos\RegexImpl\RegexImpl\bin\Debug\netcoreapp3.1\RegexImpl.deps.json
+C:\Users\Teju Reddy\source\repos\RegexImpl\RegexImpl\bin\Debug\netcoreapp3.1\RegexImpl.runtimeconfig.json
+C:\Users\Teju Reddy\source\repos\RegexImpl\RegexImpl\bin\Debug\netcoreapp3.1\RegexImpl.runtimeconfig.dev.json
+C:\Users\Teju Reddy\source\repos\RegexImpl\RegexImpl\bin\Debug\netcoreapp3.1\RegexImpl.pdb
+C:\Users\Teju Reddy\source\repos\RegexImpl\RegexImpl\obj\Debug\netcoreapp3.1\RegexImpl.genruntimeconfig.cache
